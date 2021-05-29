@@ -1,1 +1,1 @@
-# wd-201-kokila
+# This is for Web Development 201 course

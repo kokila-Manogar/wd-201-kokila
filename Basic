@@ -1,0 +1,6 @@
+# cmd on program 
+puts "Hello World!";
+nxt = gets
+puts nxt
+puts "\n\n\n"
+puts " [] #{nxt}"
